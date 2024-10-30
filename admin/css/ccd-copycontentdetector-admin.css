@@ -1,0 +1,49 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.wp-editor-tabs-heightexecute {
+	margin-top:20px;
+}
+
+
+.ccd-result-success {
+	color:#008b8b;
+}
+
+.ccd-result-warning {
+	color:#ffa500;
+}
+
+.ccd-result-danger {
+	color:#dc143c;
+}
+
+.ccd-link {
+	color: #0073aa;
+	cursor: pointer;
+}
+
+.ccd-result-item {
+	margin-right:10px;
+}
+
+.ccd-input-form {
+	width:400px;
+}
+
+.ccd-list-width {
+	display: inline-block;
+}
+
+.ccd-iframe {
+	margin-top:10px;
+	overflow-x:hidden;
+	display:none;
+}
+
+.ccd_list_header_button {
+	margin-top:1px!important;
+	margin-right:6px!important;
+}
